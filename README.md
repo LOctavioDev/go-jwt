@@ -7,7 +7,7 @@ Este es un proyecto de ejemplo para el uso de JWT en Go.
 1. Clona el repositorio:
 
     ```bash
-    git clone 
+    git clone https://github.com/LOctavioDev/go-jwt
     ```
 
 2. Navega al directorio del proyecto:
@@ -25,7 +25,7 @@ Este es un proyecto de ejemplo para el uso de JWT en Go.
 4. Ejecuta el proyecto:
 
     ```bash
-    go run main.go
+    compiledaemon --command="./jwt-go"
     ```
 
 ## Configuración
