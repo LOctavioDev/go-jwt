@@ -1,0 +1,19 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Vendor directory
+/vendor/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Environment variables file
+.env
